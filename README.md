@@ -11,7 +11,7 @@ How to run it
 2. Open the project folder in VS Code.
 3. Open terminal.
 4. Run: python 
-    <resistor_calculator.py
+    resistor_calculator.py
 
 Sample output
 
@@ -38,4 +38,4 @@ F/ND/24/3450037
 
 ND2 MECHATRONICS ENGINERING
 
-YabaTech
+YABATECH
