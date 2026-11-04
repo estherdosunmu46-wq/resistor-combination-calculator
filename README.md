@@ -11,12 +11,14 @@ How to run it
 2. Open the project folder in VS Code.
 3. Open terminal.
 4. Run: python 
-    resistor_calculator.py
+    <resistor_calculator.py
 
 Sample output
 
 Series Resistance:600.0 ohms
+
 Parallel Resistance: 54.55 ohms
+
 Series resistance is higher
 
 
