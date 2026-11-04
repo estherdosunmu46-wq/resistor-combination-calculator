@@ -36,6 +36,4 @@ F/ND/24/3450037
 
 ND2 MECHATRONICS ENGINERING
 
-Matic number: F/ND/24/3450037
-ND2 Mechatronics engineering, 
 YabaTech
