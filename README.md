@@ -22,15 +22,20 @@ Series resistance is higher
 
 My own twist
 
-i added a comparison feature that identifies wether series or parallel resistance is higher. I also included input validation to handle invaid entries.
+I added a comparison feature that identifies wether series or parallel resistance is higher. I also included input validation to handle invaid entries.
 
-What i learned
+What I learned
 
 I learned how to use python functions, lists, loops,conditional statements and error handling. I also learn how to apply Pthon to electrical resistance calculations.
 
 Author
 
 ESTHER ABISOLA DOSUNMU
+
+F/ND/24/3450037
+
+ND2 MECHATRONICS ENGINERING
+
 Matic number: F/ND/24/3450037
 ND2 Mechatronics engineering, 
 YabaTech
